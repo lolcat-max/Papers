@@ -1,4 +1,4 @@
-Selenium-doped carbon polymer dots can be synthesized using a microwave reactor by applying microwave-assisted hydrothermal or solvothermal synthesis methods. The process offers rapid heating, precise control, and high reaction efficiency compared to traditional methods. Here's a general outline for microwave synthesis:
+Selenium-doped carbon dots can be synthesized using a microwave reactor by applying microwave-assisted hydrothermal or solvothermal synthesis methods. The process offers rapid heating, precise control, and high reaction efficiency compared to traditional methods. Here's a general outline for microwave synthesis:
 
 Microwave Synthesis Procedure:
 Precursor Preparation:
