@@ -100,3 +100,16 @@ Optimize conditions: Adjust pH, temperature, and enzyme loading to maximize acti
 Characterize immobilized enzyme: Test enzymatic activity retention, stability over time, and potential reuse cycles.
 
 This approach promises enhanced TH stability and efficiency useful for biosynthesis or sensor applications. While specific TH immobilization on nanocellulose is not extensively reported yet, parallels with other enzymes suggest it is a viable and promising method.​
+
+Nanocellulose itself is not clearly documented as naturally capable of crossing the blood-brain barrier (BBB). However, related cellulose derivatives like carboxymethyl cellulose (CMC) coated magnetic nanoparticles have demonstrated the ability to cross a model BBB in vitro without toxicity, suggesting that appropriately functionalized cellulose-based nanoparticles can be engineered for BBB crossing and drug delivery to the brain. The crossing mechanism involves uptake and transport through tightly packed endothelial cells mimicking the BBB.
+
+More generally, nanoparticles' ability to cross the BBB depends strongly on their size, surface charge, coating, and functionalization. Nanocellulose materials have been studied extensively for biomedical applications, but direct evidence regarding unmodified nanocellulose crossing the BBB is limited or lacking. Instead, functionalized cellulose nanomaterials can be part of drug delivery systems designed to penetrate the BBB safely.
+
+Summary:
+
+Plain nanocellulose crossing the BBB is not well established.
+
+Carboxymethyl cellulose-coated nanoparticles have crossed model BBB systems in vitro without toxicity.
+
+The potential of nanocellulose-based systems in brain-targeted drug delivery is an active research area requiring suitable surface modifications for BBB permeation.
+
